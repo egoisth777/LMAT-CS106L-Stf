@@ -1,0 +1,3 @@
+[submodule "CS106L-Proj"]
+	path = CS106L-Proj
+	url = git@github.com:egoisth777/CS106L-Proj.git
