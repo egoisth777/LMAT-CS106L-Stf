@@ -2,9 +2,8 @@
 aliases: []
 tags: []
 icon:
-iconColor:
 date-created: 2025-09-28-07:24:57
-date-modified: 2025-11-27-01:22:09
+date-modified: 2025-12-22-09:22:51
 ---
 
 # LMAT-CS106L-Stf
